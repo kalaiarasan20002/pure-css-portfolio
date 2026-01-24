@@ -1,89 +1,10 @@
- * {
-  margin: 0;
-  padding: 0;
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+  margin:0;
+  padding:0;
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-body {
-  line-height: 1.6;
-  color: #333;
-}
-
-/* Hero Section */
-.hero {
-  height: 100vh;
-  background: linear-gradient(135deg, #1e3c72, #2a5298);
-  color: white;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.hero h1 {
-  font-size: 3rem;
-}
-
-.hero p {
-  margin: 10px 0 20px;
-}
-
-.btn {
   text-decoration: none;
-  color: white;
-  border: 2px solid white;
-  padding: 10px 25px;
-  border-radius: 30px;
-}
-
-/* Sections */
-section {
-  padding: 60px 20px;
-  max-width: 1000px;
-  margin: auto;
-}
-
-h2 {
-  text-align: center;
-  margin-bottom: 30px;
-}
-
-/* Projects */
-.projects {
-  display: grid;
-  gap: 20px;
-}
-
-.project-card {
-  border: 1px solid #ddd;
-  padding: 20px;
-  border-radius: 10px;
-}
-
-.project-card a {
-  display: inline-block;
-  margin-top: 10px;
-  text-decoration: none;
-  color: #2a5298;
-}
-
-/* Contact */
-.contact {
-  text-align: center;
-}
-
-/* Footer */
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #f4f4f4;
-}
-
-/* Responsive */
-@media (min-width: 768px) {
-  .projects {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
+  
+  
+  
