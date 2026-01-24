@@ -8,5 +8,4 @@ A simple, responsive personal portfolio built using only HTML and CSS.
 - Clean layout
 - Easy to customize
 
-## Live Demo
-Enable GitHub Pages from repository settings to view live.
+https://kalaiarasan20002.github.io/pure-css-portfolio/
